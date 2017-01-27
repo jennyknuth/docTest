@@ -16,15 +16,15 @@ Gives the ability to select an item.
   <Checkbox variant='inline' label='large' value='large'/>
 {% endhighlight %}
 
-```jsx
+  ```jsx
 
-  <Checkbox variant='block' label='Won Tons' value='item59'/>
-  <Checkbox variant='block' label='Spring Rolls' value='item63'/>
-  <Checkbox variant='inline' label='small' value='small'/>
-  <Checkbox variant='inline' label='medium' value='medium'/>
-  <Checkbox variant='inline' label='large' value='large'/>
+    <Checkbox variant='block' label='Won Tons' value='item59'/>
+    <Checkbox variant='block' label='Spring Rolls' value='item63'/>
+    <Checkbox variant='inline' label='small' value='small'/>
+    <Checkbox variant='inline' label='medium' value='medium'/>
+    <Checkbox variant='inline' label='large' value='large'/>
 
-```
+  ```
 
 ## Properties
 
