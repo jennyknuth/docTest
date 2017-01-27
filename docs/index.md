@@ -17,13 +17,11 @@ Gives the ability to select an item.
 {% endhighlight %}
 
   ```jsx
-
     <Checkbox variant='block' label='Won Tons' value='item59'/>
     <Checkbox variant='block' label='Spring Rolls' value='item63'/>
     <Checkbox variant='inline' label='small' value='small'/>
     <Checkbox variant='inline' label='medium' value='medium'/>
     <Checkbox variant='inline' label='large' value='large'/>
-
   ```
 
 ## Properties
