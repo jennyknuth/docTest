@@ -25,6 +25,7 @@ Gives the ability to select an item.
   <Checkbox variant='inline' label='large' value='large'/>
 
 ```
+
 ## Properties
 
 | Name | Type | Description |
