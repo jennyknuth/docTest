@@ -28,7 +28,7 @@ Gives the ability to select an item.
 ## Properties
 
 | Name | Type | Description |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | `type` | `'email'|'number'|'password'|'tel'|'text'|'url'` | Specifies the `type` attribute of the `<input>` element |
 | `variant` | `'block'|'inline'` | Specifies the direction of the list: stacked or in a line |
 | `mod` | `string|Array<string>` | Apply custom mods from the theme on the Checkbox |
