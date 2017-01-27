@@ -8,7 +8,7 @@ Gives the ability to select an item.
 
 ## Example
 
-{% highlight javascript %}
+{% highlight jsx %}
   <Checkbox variant='block' label='Won Tons' value='item59'/>
   <Checkbox variant='block' label='Spring Rolls' value='item63'/>
   <Checkbox variant='inline' label='small' value='small'/>
@@ -16,7 +16,7 @@ Gives the ability to select an item.
   <Checkbox variant='inline' label='large' value='large'/>
 {% endhighlight %}
 
-```js
+```jsx
 
   <Checkbox variant='block' label='Won Tons' value='item59'/>
   <Checkbox variant='block' label='Spring Rolls' value='item63'/>
