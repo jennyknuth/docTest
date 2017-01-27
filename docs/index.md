@@ -23,10 +23,11 @@ Gives the ability to select an item.
   <Checkbox variant='inline' label='small' value='small'/>
   <Checkbox variant='inline' label='medium' value='medium'/>
   <Checkbox variant='inline' label='large' value='large'/>
-  
+
 ```
 
 ## Properties
+
 
 | Name | Type | Description |
 | --- | --- | --- |
@@ -37,7 +38,9 @@ Gives the ability to select an item.
 | `value` | `string` | Specifies the name for the selection when it is submitted
 | `checked` | `boolean` | Checkbox is selected
 
+
 ## Theme
+
 
 | Name | Description |
 | ---  | ----------- |
